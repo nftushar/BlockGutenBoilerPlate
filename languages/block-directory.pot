@@ -2,7 +2,7 @@
 # This file is distributed under the GPLv3.
 msgid ""
 msgstr ""
-"Project-Id-Version: Block Directory 1.0.0\n"
+"Project-Id-Version: Iframe 7 1.0.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/block-directory\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,11 +15,11 @@ msgstr ""
 "X-Domain: block-directory\n"
 
 #. Plugin Name of the plugin
-msgid "Block Directory"
+msgid "Iframe 7"
 msgstr ""
 
 #. Description of the plugin
-msgid "Description of the Block Directory."
+msgid "Description of the Iframe 7."
 msgstr ""
 
 #. Author of the plugin
@@ -184,17 +184,17 @@ msgstr ""
 
 #: dist/editor.js:1
 #: dist/editor.js:8212
-msgid "Block Directory in left"
+msgid "Iframe 7 in left"
 msgstr ""
 
 #: dist/editor.js:1
 #: dist/editor.js:8213
-msgid "Block Directory in center"
+msgid "Iframe 7 in center"
 msgstr ""
 
 #: dist/editor.js:1
 #: dist/editor.js:8214
-msgid "Block Directory in right"
+msgid "Iframe 7 in right"
 msgstr ""
 
 #: dist/editor.js:1
@@ -204,12 +204,12 @@ msgstr ""
 
 #: block.json
 msgctxt "block title"
-msgid "Block directory"
+msgid "Iframe 7"
 msgstr ""
 
 #: block.json
 msgctxt "block description"
-msgid "Description of Block directory."
+msgid "Description of Iframe 7."
 msgstr ""
 
 #: block.json
